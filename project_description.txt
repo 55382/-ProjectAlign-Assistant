@@ -1,0 +1,1 @@
+This project is a project management assistant tool designed to help teams organize, track, and manage their tasks. It provides features like task assignment, deadline tracking, and team communication. The tool integrates with popular project management software to enhance collaboration and productivity.
